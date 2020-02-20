@@ -24,4 +24,4 @@ Analyze local and global temperature data and compare the temperature trends whe
 
 ###### more details are existed in the Report file.
 
-#### • [you can navigate the data with IPython Notebook (Jupyter) using mybinder in the link below by clicking here](https://mybinder.org/v2/gh/samedhaa/Explore-Weather-Trends-Udacity-Data-Analysis-Nanodegree-Project-01/master)  
+ 
